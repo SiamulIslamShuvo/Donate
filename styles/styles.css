@@ -138,3 +138,59 @@ font-size: 20px;
 .don-dsc{
     padding: 50px; 
 }
+.contact{
+    text-align: center;
+}
+.subs{
+    display: flex;
+    justify-content: center;
+    padding: 76px 100px;
+    background: #FFF4D6;
+    width: 60%;
+    margin: 20px auto;
+}
+.email{
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+    width: 275px;
+}
+.p-btn1{
+    margin: 0;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+    background: #FF5959;
+    border-radius: 0px 5px 5px 0px;
+    border: none;
+    padding: 14px 42px;
+}
+.footer{
+    background: #0B0D17;
+    text-align: center;
+}
+.f-headline{
+    color: #FF5959;
+    letter-spacing: 0.5px;
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+}
+.f-para{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #D9DBE1;
+}
+.fot{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 130px;
+}
+img{
+    border-radius: 5px;
+}
