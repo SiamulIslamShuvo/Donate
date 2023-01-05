@@ -36,6 +36,9 @@
     padding: 16px 12px;
     border: none;
     border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 600;
+font-size: 20px;
 
 }
 .donate{
@@ -115,10 +118,6 @@
     margin: 24PX;
     border-radius: 5px;
 }
-img{
-    padding-top: 65px;
-    padding-left: 20px;
-}
 .plan-h{
     padding-top: 16px;
     padding-left: 20px;
@@ -126,4 +125,16 @@ img{
 .plan-dsc{
     padding-top: 10px;
     padding-left: 20px;
+}
+.contibute{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.don-img{
+    padding: 50px;
+}
+.don-dsc{
+    padding: 50px; 
 }
